@@ -12,6 +12,9 @@ body{
 .card{
     color:aquamarine; 
 }
+.card .love{
+    color:indigo;
+}
 .card-header{
     font-size: 2.5rem;
     font-family: "Sofia", sans-serif;
